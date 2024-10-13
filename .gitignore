@@ -1,3 +1,11 @@
 .gitkeep
 .next/
 node_modules/
+
+.DS_Store
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
